@@ -12,6 +12,18 @@ We use this event to reward those programmers who first achieve certain objectiv
 
 "All prizes will be offered in Neurai's currency, which is XNA. There will be various valuations depending on complexity
 
+## Coins for Hackathon
+Currently, there are 18M XNAs that serve a single purpose, which is to reward Neurai developments. This is currently equivalent to about $35k.
+
+<p align="center">
+  <img src="img/qr-address-hackathon.png" />
+  
+</p>
+
+<p align="center">
+   NYJ1YiMCj7hthGpYUVbkeaspEK5dj5TkxE
+</p>
+
 ## Participating in a hackathon
 
 Follow this simple guide to sign up for one of our challenges
